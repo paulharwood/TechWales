@@ -18,7 +18,7 @@ The tech community in Wales stands to lose as much as every other industry, but 
 
 Our current Prime Minister has declined to guarantee the funds that are currently committed to Wales via the EU, which would absolutely reduce our opportunity to grow into a self sufficient nation through tech. 
 
-When EU funds that are currently contributing to both in startup business and academic sectors are removed along with access to the single market, this will have immediate and disastrous consequences for emerging companies that either: a) receive support or existing companies or b) require further funding for access to top local and international talent. Lots will go bust immediately, some will shrink immediately, leading to the overall shrinking of the sector and the loss of income and jobs outright.
+When EU funds that are currently contributing to both in startup business and academic sectors are removed along with access to the single market, this will have immediate and disastrous consequences for emerging companies that either: a) receive support for existing projects or b) require further funding for access to top local and international talent. Lots will go bust immediately, some will shrink immediately, leading to the overall shrinking of the sector and the loss of income and jobs outright.
 
 We are already seeing the negative effects of the UK's exit of the EU with reduced investment opportunities and investors backing out of existing deals. If we are to remedy this we must act very quickly to restore that investor confidence in our sector through strong policy and a clear plan with clear milestones and dates that the industry can rally around.
 
