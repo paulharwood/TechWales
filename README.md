@@ -2,12 +2,10 @@ An open letter to the UK and Welsh Governments
 
 Dear Governments,
 
-As a nation, Wales has been working against adversity for decades. We have a modest economy, a small populace, below-par infrastructure and a lack of key industry. Against all these odds, we succeed and flourish. We are a nation of overachievers .
+As a nation, Wales has been working against adversity for decades. We have a modest economy, a small populace, below-par infrastructure and a lack of key industry. Against all these odds, we succeed and flourish. We are a nation of overachievers.
 
 Our economy is now vulnerable in these times of uncertainty. This affects our outlook and prosperity as a nation. In thirty years, we still haven't found an economic replacement for the coal industry. We need an industry to replace the financial hole that coal has left.
-
  
-
 The export of coal provided wealth, security and prosperity for all Wales' citizens over the last century. Our nation is hungry for wealth and prosperity again. 
 
 The tech sector has a chance be that industry. It can become *the* export industry, for Wales, as valuable to the nation as coal was. An industry that is crucial for future generations.
@@ -33,7 +31,7 @@ We want to see the following policies implemented immediately:
 1. **Business and tax incentives for all tech firms**
 From startup to multinational, our tech firms need direct access to all EU marketplaces to compete, without any penalty such as a tariff or levy. We absolutely require access to the single market with free movement of people involved in the tech industry, along with specific VAT and tax initiatives that target globally innovative and disruptive technologies, bringing the top talent in those fields into Wales.
 
-2. **Like for like Protection of EU funding **
+2. **Like for like Protection of EU funding**
 Create a temporary tech body that works with existing EU fund partners. It’s responsibility will be to properly wind down EU funded opportunities that have been created in the Welsh tech sector. It should have a ring fenced budget to draw down on should any shortfall occur and remove uncertainty for those projects and outputs. 
 
 3. **A provision of funds for growth of tech in Wales**
