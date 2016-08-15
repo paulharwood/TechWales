@@ -19,7 +19,7 @@ The ‘jobs created’ metric has damaged the growth of small, risky businesses 
 
 Policymakers have identified the digital economy as one of the [UK's key economic strengths][2]. This set of policies will allow us to continue as one of the fastest growing tech sectors in Europe. 
 
-Against all our poor recent economic history, we are flourishing. With your support, we can become the nation of overachievers that our sportsmen consistently show us to be.
+Against all our poor recent economic history, we are flourishing. With your support, we can become the nation of overachievers that our sportswomen and sportsmen consistently show us to be.
 
 The Welsh Tech sector
 
