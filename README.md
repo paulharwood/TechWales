@@ -10,9 +10,9 @@ Wales has fantastic conditions for the growth of Welsh tech companies. We have a
 
 We must act to restore confidence in our sector through strong policy as set out below, with set dates and milestones that the sector can rally around.
 
-- A specific provision of funds for growth of tech in Wales, specifically for the growth of the Welsh tech economy until 2030
 - Non-punative access to the single market with free movement of people involved in the tech industry bringing the top talent in those fields into Wales
 - Wales specific VAT and tax initiatives that target globally innovative and disruptive technologies
+- A specific provision of funds for growth of tech in Wales, specifically for the growth of the Welsh tech economy until 2030
 - A move away from ‘jobs created’ to 'wages improved' as a metric of funding success 
 
 The ‘jobs created’ metric has damaged the growth of small, risky businesses like small enterprising technology firms. It favours larger established enterprises like call centres, with higher volume, lower paid jobs. Higher wages for everyone in Wales across the board will help alleviate lots of the social issues that we face. It will also attract more of the international top talent we need to grow our tech economy.
