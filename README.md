@@ -41,4 +41,3 @@ We have fantastic conditions for the growth of Welsh tech companies. We have a l
 This set of policies will allow us to continue as one of the fastest growing tech sectors in Europe. Against all our poor recent history, we are flourishing. With your support, we can become the nation of overachievers that our sportsmen consistently show us to be.
 
 The Welsh Tech sector
-Contact GitHub API Training Shop Blog About
