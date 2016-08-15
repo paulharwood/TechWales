@@ -48,4 +48,3 @@ This policy will act as a beacon to a world that is trying embrace innovation as
 This set of policies will allow us to continue growing at the rate we are, one of the fastest growing tech sectors in Europe.
 
 The Welsh Tech sector
-
