@@ -17,6 +17,6 @@ We must act to restore confidence in our sector through strong policy as set out
 
 The ‘jobs created’ metric has damaged the growth of small, risky businesses like small enterprising technology firms. It favours larger established enterprises like call centres, with higher volume, lower paid jobs. Higher wages for everyone in Wales across the board will help alleviate lots of the social issues that we face. It will also attract more of the international top talent we need to grow our tech economy.
 
-This set of policies will allow us to continue as one of the fastest growing tech sectors in Europe. Against all our poor recent history, we are flourishing. With your support, we can become the nation of overachievers that our sportsmen consistently show us to be.
+This set of policies will allow us to continue as one of the fastest growing tech sectors in Europe. Against all our poor recent economic history, we are flourishing. With your support, we can become the nation of overachievers that our sportsmen consistently show us to be.
 
 The Welsh Tech sector
