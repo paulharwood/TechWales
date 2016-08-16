@@ -2,7 +2,7 @@ An open letter to the UK and Welsh Governments
 
 Dear Governments,
 
-Wales has the fastest growing digital economy outside London, the number of companies in the tech scene [jumped 9.2% in 2015 and around 3.5% of the total Welsh workforce is involved in IT][1]. 
+Wales has the fastest growing digital economy outside of London. The number of companies in the Welsh tech scene [jumped 9.2% in 2015 and around 3.5% of the total Welsh workforce is involved in IT][1]. 
 
 Britain's recent decision to exit the EU has created huge uncertainty in Wales which now threatens this growth and may even reverse it. Investor confidence in key tech projects and ideas has suffered. The sector as a whole is at risk of loss of income and jobs outright.
 
